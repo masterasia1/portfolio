@@ -20,12 +20,14 @@ function App() {
    <div className='bodyStyle'>
      <h1>About</h1>
      <p>blavj blavj </p>
+     </div>
 
-
-
-
-
-   </div>
+     <br />
+     <br />
+     <div className='bodyStyle'>
+     <h1>Skills</h1>
+     <p>blavj blavj </p>
+     </div>
 
 
    </div>
