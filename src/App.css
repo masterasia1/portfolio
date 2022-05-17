@@ -24,4 +24,15 @@ img {
     display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 300px;
+  height: auto
+}
+
+.bodyStyle {
+    display: flex;
+    flex-direction: column;
+    padding-left: 25rem;
+    padding-right: 25rem;
+    line-height: 0;
+
 }
