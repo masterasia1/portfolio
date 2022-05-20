@@ -1,11 +1,12 @@
-import './App.css'
-import image from './images/img-1.png'
+import './App.css';
+import image from './images/img-1.png';
 import {Container, Button,  Card} from 'react-bootstrap';
+import {Contact} from './Contact'
 
 function App() {
 
-
   return (
+   
     <div>
    
    <div className='headerStyle'>
@@ -28,9 +29,16 @@ function App() {
      <h1>Skills</h1>
      <p>blavj blavj </p>
      </div>
+     <br />
+     <br />
+     <Contact />
+     
 
+    
 
    </div>
+   
+
 
   );
 }
