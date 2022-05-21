@@ -2,11 +2,13 @@ import './App.css';
 import image from './images/img-1.png';
 import {Container, Button,  Card} from 'react-bootstrap';
 import {Contact} from './Contact'
+import Skills from './Skills';
 
 function App() {
 
   return (
    
+    
     <div>
    
    <div className='headerStyle'>
@@ -17,6 +19,7 @@ function App() {
    </div>
    
    <img src={image} alt="Profile"></img>
+   <Container>
 
    <div className='bodyStyle'>
      <h1>About</h1>
@@ -25,18 +28,19 @@ function App() {
 
      <br />
      <br />
-     <div className='bodyStyle'>
-     <h1>Skills</h1>
-     <p>blavj blavj </p>
-     </div>
+    <Skills />
      <br />
      <br />
      <Contact />
+     <br />
+     <br />
+     </Container>
+     <div className='footer'>
+
+     </div>
      
-
-    
-
    </div>
+   
    
 
 
