@@ -3,6 +3,7 @@ import image from './images/img-1.png';
 import {Container, Button,  Card} from 'react-bootstrap';
 import {Contact} from './Contact'
 import Skills from './Skills';
+import Projects from './Projects';
 
 function App() {
 
@@ -22,10 +23,13 @@ function App() {
    <Container>
 
    <div className='bodyStyle'>
-     <h1>About</h1>
+     <h2>About</h2>
      <p>blavj blavj </p>
      </div>
-
+     
+     <br />
+     <br />
+    <Projects />
      <br />
      <br />
     <Skills />
@@ -35,6 +39,7 @@ function App() {
      <br />
      <br />
      </Container>
+    
      <div className='footer'>
 
      </div>
