@@ -7,6 +7,9 @@ const Projects = () => {
         <h2>Projects</h2>
 
         <div className='container portfolio_container'>
+          <article>
+            
+          </article>
 
         </div>
     </section>
