@@ -16,6 +16,7 @@ function App() {
      <header>
        <h2>Asia Mayfield</h2>
        <p>Frontend Software Engineer | React Developer</p>
+       <p><a href='https://github.com/masterasia1'>Github</a> | <a href='https://www.linkedin.com/in/asia-mayfield/'>LinkedIn</a></p>
      </header>
    </div>
    
@@ -29,10 +30,10 @@ function App() {
      
      <br />
      <br />
-    <Projects />
-     <br />
-     <br />
     <Skills />
+     <br />
+     <br />
+    <Projects />
      <br />
      <br />
      <Contact />

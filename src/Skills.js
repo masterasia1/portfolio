@@ -26,12 +26,6 @@ const Skills = () => {
             <article className='experience_details'>
             <BsPatchCheckFill className='experience_icon'/>
             <div>
-            <h4>React Bootstrap</h4>
-            </div>
-            </article> 
-            <article className='experience_details'>
-            <BsPatchCheckFill className='experience_icon'/>
-            <div>
             <h4>JavaScript</h4>
             </div>
             </article> 
@@ -41,12 +35,7 @@ const Skills = () => {
             <h4>ReactJS</h4>
             </div>
             </article> 
-            <article className='experience_details'>
-            <BsPatchCheckFill className='experience_icon'/>
-            <div>
-            <h4>Redux</h4>
-            </div>
-            </article> 
+         
    
             
 
@@ -82,12 +71,7 @@ const Skills = () => {
             <h4>PostgreSQL</h4>
             </div>
             </article> 
-            <article className='experience_details'>
-            <BsPatchCheckFill className='experience_icon'/>
-            <div>
-            <h4>Github</h4>
-            </div>
-            </article> 
+         
            
             
 

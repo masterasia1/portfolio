@@ -25,6 +25,7 @@
     line-height: 0.5;
     height: 6rem;
    
+   
     
 }
 
@@ -71,7 +72,7 @@ img {
   border: 1px solid var(--color-primary);
   transition: var(--transition);
   color: var(--color-text);
-  background: #e4dff1;
+  background: #8a76bd;
 }
 
 .btn:hover {
@@ -86,3 +87,13 @@ img {
   width: 100%
 }
 
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: rgb(233, 187, 229);
+}
+a:hover {
+ font-weight: bold;
+}
