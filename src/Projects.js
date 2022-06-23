@@ -1,6 +1,7 @@
 import React from 'react'
 import './Projects.css'
 import img2 from './images/img2.jpg'
+import img3 from './images/img3.jpg'
 
 
 const Projects = () => {
@@ -21,11 +22,11 @@ const Projects = () => {
           </article>
           <article className='project_item'>
             <div className='project_item-image'>
-              <img src={img2} alt='' />
+              <img src={img3} alt='' />
             </div>
               <h3>Van Life Website</h3>
               <div className='project_iten_text'>
-              <p>Fully repsonsive website geared toward US van lifers</p>
+              <p>Fully repsonsive React website geared toward US van lifers</p>
               </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/van-life' className='btn'>Github</a>
