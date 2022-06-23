@@ -24,6 +24,9 @@ const Projects = () => {
               <img src={img2} alt='' />
             </div>
               <h3>Van Life Website</h3>
+              <div className='project_iten_text'>
+              <p>Fully repsonsive website geared toward US van lifers</p>
+              </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/van-life' className='btn'>Github</a>
               <a href='https://asiamayfield.dev/van-life/' className='btn btn-primary'>Demo</a>
