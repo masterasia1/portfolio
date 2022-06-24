@@ -2,6 +2,7 @@ import React from 'react'
 import './Projects.css'
 import img2 from './images/img2.jpg'
 import img3 from './images/img3.jpg'
+import img4 from './images/img4.jpg'
 
 
 const Projects = () => {
@@ -35,7 +36,7 @@ const Projects = () => {
           </article>
           <article className='project_item'>
             <div className='project_item-image'>
-              <img src={img2} alt='' />
+              <img src={img4} alt='' />
             </div>
               <h3>Plant Life CRUD App</h3>
               <div className='project_item-cta'>
