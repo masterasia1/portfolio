@@ -25,10 +25,9 @@ function App() {
 
    <div className='bodyStyle'>
      <h2>About</h2>
-     <p>blavj blavj </p>
+     <p>I'm Asia. Kitten enthusiast, content warrior, and React developer. I've developed and executed content strategies</p>
+     <p>for leading startups. Now, I'm focused on creating apps that touch lives. Let's build something extraordinary!</p>
      </div>
-     
-     <br />
      <br />
     <Skills />
      <br />

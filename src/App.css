@@ -50,15 +50,23 @@ img {
     display: flex;
     flex-direction: column;
     line-height: 0;
-    text-align: center;
+
     
 
 }
 
+.bodyStyle p {
+  font-size: 1vw;
+  
+  text-align: center;
+}
+
+
 .container {
   padding-left: 20%;
   padding-right: 20%;
-  color: var(--color-text)
+  color: var(--color-text);
+  border-color: red;
 }
 
 .btn {
