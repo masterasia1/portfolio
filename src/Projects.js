@@ -43,7 +43,7 @@ const Projects = () => {
             </div>
               <h3>Plant Life CRUD App</h3>
               <div className='project_iten_text'>
-              <p>Fully repsonsive React website geared toward US van lifers</p>
+              <p>Fully repsonsive React website geared toward US van lifers. Find useful tips and connect with other travelers.</p>
               </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/some-plants' className='btn'>Github</a>

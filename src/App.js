@@ -22,18 +22,14 @@ function App() {
    
    <img src={image} alt="Profile"></img>
    <Container>
-
    <div className='bodyStyle'>
      <h2>About</h2>
      <p>I'm Asia. Kitten enthusiast, content warrior, and React developer. I've developed and executed content strategies</p>
      <p>for leading startups. Now, I'm focused on creating apps that touch lives. Let's build something extraordinary!</p>
      </div>
-     <br />
     <Skills />
-     <br />
-     <br />
+    <br />
     <Projects />
-     <br />
      <br />
      <Contact />
      <br />

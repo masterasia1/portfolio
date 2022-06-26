@@ -18,6 +18,7 @@ export const Contact= () => {
 
   return (
    <section id='contact'>
+  
      <h2>Get In Touch</h2>
      <br />
 

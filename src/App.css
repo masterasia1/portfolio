@@ -67,6 +67,7 @@ img {
   padding-right: 20%;
   color: var(--color-text);
   border-color: red;
+  position: relative;
 }
 
 .btn {
