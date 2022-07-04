@@ -21,7 +21,7 @@ const Projects = () => {
               </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/gpt3-app' className='btn'>Github</a>
-              <a href='https://github.com/masterasia1/gpt3-app' className='btn btn-primary'>Video</a>
+              <a href='https://www.loom.com/share/59a9f6185a444053b1d69efe68f62fb9' className='btn btn-primary'>Video</a>
               </div>
           </article>
           <article className='project_item'>
@@ -43,11 +43,10 @@ const Projects = () => {
             </div>
               <h3>Plant Life CRUD App</h3>
               <div className='project_iten_text'>
-              <p>Fully repsonsive React website geared toward US van lifers. Find useful tips and connect with other travelers.</p>
+              <p>Fullstack React and Node app that lets registered users track plant watering times.</p>
               </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/some-plants' className='btn'>Github</a>
-              <a href='https://github.com/masterasia1/gpt3-app' className='btn btn-primary'>Video</a>
             </div>
           </article>
 

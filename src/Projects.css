@@ -35,13 +35,7 @@
 
 }
 
-/* MEDIA Query (Medium devices) */
-@media screen and (max-width: 1024px) {
-    .project_container {
-        grid-template-columns: 1fr 1 fr;
-        gap: 1.2rem;
-    }
-    }
+
 
 /* MEDIA Query (Small devices) */
 @media screen and (max-width: 600px) {
