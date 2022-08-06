@@ -34,7 +34,7 @@ const Projects = () => {
               </div>
               <div className='project_item-cta'>
               <a href='https://github.com/masterasia1/van-life' className='btn'>Github</a>
-              <a href='https://asiamayfield.dev/van-life/' className='btn btn-primary'>Demo</a>
+              <a href='https://vanlife.asiamayfield.com' className='btn btn-primary'>Demo</a>
             </div>
           </article>
           <article className='project_item'>
